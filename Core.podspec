@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "#{spec.name} framework."
   spec.description  = "Description for #{spec.name} framework."
-  spec.homepage     = "https://github.com/auzankyu/dummy-core"
+  spec.homepage     = "https://github.com/auzankyu"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Auzan" => "" }
   spec.platform     = :ios, "11.0"
